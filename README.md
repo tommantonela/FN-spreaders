@@ -23,7 +23,10 @@ The repository contains the following folders and files:
 	* *table_RQ1*. Extended version of Table 1 with more metrics.
 	* *table-RQ1-varying-information*. Results for RQ1 varying the information available at inference time.
 	* *table_RQ1-threshold07*. Results for RQ1 considering a threshold for spreader definition of 0.7.
+        * *table_RQ1-threshold07*. Results for RQ1 considering a threshold for spreader definition of 0.3.
+        * *RQ1-analysis-of-mistaken-classifications*. Folder with boxplots of divergences across feature sets and user groups.
 	* *table_RQ2*. Extended version of Table 2 with more metrics and more variants.
+	* *RQ2-feature-selection-charts*. Folder with correlation and boxplot charts of feature correlations and distribution of correlations.   
 	* *table_RQ3*. Extended version of Table 3 with more metrics.
 	* *table_RQ3-graph*. The results for the time slots when considering the full user behaviour for determining whether they are spreaders.
 	
