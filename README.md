@@ -26,6 +26,7 @@ The repository contains the following folders and files:
     * *table_RQ1-threshold07*. Results for RQ1 considering a threshold for spreader definition of 0.3.
     * *RQ1-analysis-of-mistaken-classifications*. Folder with boxplots of divergences across feature sets and user groups.
 	* *RQ1-feature-contribution*. Folder with boxplots showing the contribution of each feature/feature set to the classification of different user groups.
+	* *RQ1-feature-contribution/contributions-per-selected-users*. Folder with heatmaps showing the contribution of each feature to the classification of specific users. The users were selected as representative of different correlation groups (i.e., users belonged to the same group if they feature contributions were highly correlated).
 	* *table_RQ2*. Extended version of Table 2 with more metrics and more variants.
 	* *RQ2-feature-selection-charts*. Folder with correlation and boxplot charts of feature correlations and distribution of correlations.   
 	* *table_RQ3*. Extended version of Table 3 with more metrics.
